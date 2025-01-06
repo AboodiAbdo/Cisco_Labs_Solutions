@@ -147,6 +147,7 @@ After completing the lab correctly, you should see a result like the screenshot 
 To verify your results:
 1. Click on **Check Results**.
 2. Navigate to **Assessment Items**.
+
 ![Screenshot 2025-01-06 152842](https://github.com/user-attachments/assets/955ccc36-5eb5-46fd-bc52-a8149b39a292)
 
 ---
