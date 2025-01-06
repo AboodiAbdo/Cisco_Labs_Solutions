@@ -137,7 +137,17 @@ Repeat the configuration steps for switch S2, which should include the following
 ### 🎥 Video Tutorial
 This video demonstrates the correct steps to complete the lab successfully. Watch and follow along:
 
-[Watch the video](https://github.com/user-attachments/assets/4696acf0-7cf0-469d-9adf-ecb6d335cacf)
+# Lab 2.5.5 - Video Solution
+
+Here’s a video explanation of the solution for Lab 2.5.5:
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+---
+
+Alternatively, you can download the video directly:  
+[Download Video](https://github.com/user-attachments/assets/881471a9-c365-4d4e-903f-867483a79e1f)
+
 ---
 
 ### 🖼️ Result Screenshot
