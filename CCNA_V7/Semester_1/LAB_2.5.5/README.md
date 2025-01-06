@@ -142,9 +142,6 @@ This video demonstrates the correct steps to complete the lab successfully. Watc
   <source src="https://github.com/user-attachments/assets/881471a9-c365-4d4e-903f-867483a79e1f" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-[![Watch the video](https://github.com/user-attachments/assets/881471a9-c365-4d4e-903f-867483a79e1f)
-
 ---
 
 ### 🖼️ Result Screenshot
@@ -154,7 +151,8 @@ To verify your results:
 1. Click on **Check Results**.
 2. Navigate to **Assessment Items**.
    
-![Screenshot 2025-01-06 152842](https://github.com/user-attachments/assets/955ccc36-5eb5-46fd-bc52-a8149b39a292)
+![Screenshot 2025-01-06 152842](https://github.com/user-attachments/assets/1406442f-185c-4a33-ab1b-6c91b3fa0a74)
+
 ---
 
 ### **Files and Resources**  
