@@ -86,6 +86,5 @@ Feel free to follow along as I work through each semester and update the reposit
 - **Cisco Packet Tracer**  
 - **Networking Protocols and Security**
 ---
-![nti_banner](https://github.com/user-attachments/assets/b74044b6-7305-45dd-99b7-3e9c00b2d1b3)
-
+![nti_banner](https://github.com/user-attachments/assets/5fd27c5b-f321-49eb-8e09-2cb59df6a58d)
 <h2 align="center">National Telecommunication Institute (NTI)</h2>
