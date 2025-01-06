@@ -138,7 +138,6 @@ Repeat the configuration steps for switch S2, which should include the following
 This video demonstrates the correct steps to complete the lab successfully. Watch and follow along:
 
 [Watch the video](https://github.com/user-attachments/assets/4696acf0-7cf0-469d-9adf-ecb6d335cacf)
-
 ---
 
 ### 🖼️ Result Screenshot
@@ -147,9 +146,8 @@ After completing the lab correctly, you should see a result like the screenshot 
 To verify your results:
 1. Click on **Check Results**.
 2. Navigate to **Assessment Items**.
-
+   
 ![Screenshot 2025-01-06 152842](https://github.com/user-attachments/assets/955ccc36-5eb5-46fd-bc52-a8149b39a292)
-
 ---
 
 ### **Files and Resources**  
