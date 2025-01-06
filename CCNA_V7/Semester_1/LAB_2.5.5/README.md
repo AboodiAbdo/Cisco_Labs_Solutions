@@ -136,17 +136,14 @@ Repeat the configuration steps for switch S2, which should include the following
 
 ### 🎥 Video Tutorial
 This video demonstrates the correct steps to complete the lab successfully. Watch and follow along:
-
 # Lab 2.5.5 - Video Solution
 
-Here’s a video explanation of the solution for Lab 2.5.5:
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/881471a9-c365-4d4e-903f-867483a79e1f" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
----
-
-Alternatively, you can download the video directly:  
-[Download Video](https://github.com/user-attachments/assets/881471a9-c365-4d4e-903f-867483a79e1f)
+[![Watch the video](https://github.com/user-attachments/assets/881471a9-c365-4d4e-903f-867483a79e1f)
 
 ---
 
@@ -163,6 +160,7 @@ To verify your results:
 ### **Files and Resources**  
 - [Task Instructions (PDF)](https://www.netacad.com/content/itn/1.0/courses/content/m2/en-US/assets/2.5.5-packet-tracer---configure-initial-switch-settings.pdf)  
 - [Packet Tracer Lab (PKA)](https://www.netacad.com/content/itn/1.0/courses/content/m2/en-US/assets/2.5.5-packet-tracer---configure-initial-switch-settings.pka)
+- [Download Video](https://github.com/user-attachments/assets/881471a9-c365-4d4e-903f-867483a79e1f)
 
 ---
 
