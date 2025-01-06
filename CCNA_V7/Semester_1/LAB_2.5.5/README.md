@@ -136,12 +136,8 @@ Repeat the configuration steps for switch S2, which should include the following
 
 ### 🎥 Video Tutorial
 This video demonstrates the correct steps to complete the lab successfully. Watch and follow along:
-# Lab 2.5.5 - Video Solution
+### Lab 2.5.5 - Video Solution
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/user-attachments/assets/881471a9-c365-4d4e-903f-867483a79e1f" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 ---
 
 ### 🖼️ Result Screenshot
@@ -168,5 +164,5 @@ This lab demonstrates the basic configurations required for securing a switch's 
 ---  
 
 ### **References** 
-![downlpoad](https://github.com/user-attachments/assets/fff09150-44f6-4591-90a2-29dc090b1437)
+![downlpoad](https://github.com/user-attachments/assets/6533eb8e-edef-4cb5-ab3c-d12ce3918a59)
 - [Cisco Networking Academy](https://www.netacad.com)  
